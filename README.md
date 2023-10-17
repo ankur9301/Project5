@@ -2,7 +2,7 @@
 Ios 101 Project 5 
 
 
-# Project 5 - Vlog App
+# Project 5 - Blog App
 
 Submitted by: Ankur Gyawali
 
